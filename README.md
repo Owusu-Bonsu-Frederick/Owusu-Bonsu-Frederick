@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Frederick  
 
-🎓 BSc Computer Science Student | 💻 Aspiring Software Engineer / AI Enthusiast  
+🎓 BSc Computer Science Graduate | 💻 Aspiring Software Engineer / AI Enthusiast  
 
 🌱 Currently working on:  
 - 🤖 Tomato Disease Detection (CNN, Python)  
